@@ -81,6 +81,6 @@ Proje toplam üç ana fazdan oluşmaktadır:
   * [cite_start]**Dönem:** 2024-2025 Güz Dönemi[cite: 3].
   * [cite_start]**Ders:** Bilgisayar Mimarisi (Computer Architecture)[cite: 2].
 
-![İşlemci Mimarisi](16-bit%20pipelined%20mips%20CPU%20tasarımııı.jpg)
+"16-bit pipelined mips CPU tasarımııı.png" (ekstra eklenmiştirgörsel olarak)
 
 
