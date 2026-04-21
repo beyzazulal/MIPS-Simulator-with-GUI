@@ -1,3 +1,8 @@
+
+![Uploading 16-bit pipelined mips CPU tasarımııı.png…]()
+
+
+
 # 16-bit RISC Pipelined Processor Design
 
 [cite_start]Bu proje, **MIPS mimarisinden** esinlenerek tasarlanmış, 16-bit veri yoluna sahip ve 5 aşamalı pipeline (bor hattı) yapısını kullanan bir RISC işlemci tasarımıdır[cite: 1, 5, 11]. [cite_start]Bilgisayar Mimarisi dersi kapsamında geliştirilen bu işlemci, veri ve kontrol hazard'larını (çakışmalarını) yönetebilen gelişmiş bir mimariye sahiptir[cite: 2, 33, 34].
@@ -83,5 +88,4 @@ Proje toplam üç ana fazdan oluşmaktadır:
   * [cite_start]**Dönem:** 2024-2025 Güz Dönemi[cite: 3].
   * [cite_start]**Ders:** Bilgisayar Mimarisi (Computer Architecture)[cite: 2].
 
-![Uploading 16-bit pipelined mips CPU tasarımııı.png…]()
 
